@@ -16,12 +16,9 @@ gem install compass
 compass watch
 ```
 
-
 Themes that are installed with this.
 
-* [WP-SCSS][wp-scss]: Used to process scss files.
-
-
+* [WP-SCSS][wp_scss]: Used to process scss files.
 
 [tapny]: http://tap-ny.org
 [underscore]: https://underscores.me/
